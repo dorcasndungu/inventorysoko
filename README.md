@@ -1,6 +1,8 @@
 # inventory_soko
 
-A new Flutter project.
+Current wireframe of the project.
+![WhatsApp Image 2024-01-23 at 6 51 32 PM](https://github.com/dorcasndungu/inventorysoko/assets/93251516/f2aea5f9-f5bf-427c-9d20-1d10fd553791)
+
 
 ## Getting Started
 
